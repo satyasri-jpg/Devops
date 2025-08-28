@@ -1,0 +1,3 @@
+NAME : satya
+course : BSC COMPUTER SCIENCE
+About Git hub : it is used to upload the files 
